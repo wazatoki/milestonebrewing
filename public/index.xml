@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Milestone Brewing</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Milestone Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jul 2021 12:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Milestone IPA</title>
+      <link>https://example.com/blog/hugo-tanka-theme-demo/</link>
+      <pubDate>Thu, 01 Jul 2021 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/hugo-tanka-theme-demo/</guid>
+      <description>It&amp;rsquo;s our most standard beer.
+Vik, Iceland. Photo by Adam Jang.
+ </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>MilestoneBrewing東加古川醸造所 クラフトビール醸造しています。
+Tap Room は2階、全席禁煙。JR東加古川駅前東にあるクラフトビアレストラン。
+営業時間:17時～23時
+定休日:月曜日
+場所:JR東加古川駅南側を線路沿いに40歩
+⏬瓶ビールオンラインストアはこちらからどうぞ⏬
+milestonebrewing.stores.jp</description>
+    </item>
+    
+  </channel>
+</rss>
