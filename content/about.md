@@ -1,12 +1,15 @@
 ---
-title: "About Hugo Tanka"
-date: "2020-01-01"
+title: "About"
+date: "2021-07-01"
 menu: "main"
 description: "A description of the page"
 ---
 
-Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, [mea qualisque consetetur cu](https://example.com). Suspendisse volutpat sem a risus euismod convallis.
+MilestoneBrewing東加古川醸造所 クラフトビール醸造しています。  
+Tap Room は2階、全席禁煙。JR東加古川駅前東にあるクラフトビアレストラン。  
+営業時間:17時～23時  
+定休日:月曜日  
+場所:JR東加古川駅南側を線路沿いに40歩
 
-In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro. [Erat democritum mei no](https://example.com), homero quodsi aliquando id mel, ridens civibus molestiae et nam.
-
-Ea eam postea facilisi. Nullam forensibus consequuntur usu ea, no ius consul delectus periculis. Eam veri numquam an. Et partiendo gubergren eam. Quod iudicabit has ex, eam diam facilisi eu, elitr aliquip no eum.
+⏬瓶ビールオンラインストアはこちらからどうぞ⏬  
+milestonebrewing.stores.jp
