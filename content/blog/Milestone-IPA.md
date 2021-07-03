@@ -11,7 +11,7 @@ It's our most standard beer.
 
 ![](/images/example.jpg)
 
-<p class="caption">Vik, Iceland. Photo by <a href="https://unsplash.com/photos/MLKrf51NV8w">Adam Jang</a>.</p>
+<p class="caption">Milestone IPA</p>
 
 </div>
 
