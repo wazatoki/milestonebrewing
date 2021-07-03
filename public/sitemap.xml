@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://dazzling-hawking-cafaa5.netlify.app/blog/</loc>
     <lastmod>2021-07-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://dazzling-hawking-cafaa5.netlify.app/</loc>
     <lastmod>2021-07-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/hugo-tanka-theme-demo/</loc>
+    <loc>https://dazzling-hawking-cafaa5.netlify.app/blog/milestone-ipa/</loc>
     <lastmod>2021-07-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://dazzling-hawking-cafaa5.netlify.app/about/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://dazzling-hawking-cafaa5.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://dazzling-hawking-cafaa5.netlify.app/tags/</loc>
   </url>
 </urlset>
