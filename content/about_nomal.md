@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About_nomal"
 date: "2021-07-01"
 menu: "main"
 description: "A description of the page"
@@ -11,11 +11,6 @@ Tap Room は2階、全席禁煙。JR東加古川駅前東にあるクラフト�
 <br/>
 
 ### opening hour
-
-###### ６月２１日〜７月１１日
-
-17時～20時  アルコールの提供は１９時  
-定休日:月曜日、 土曜日、 日曜日
 
 ###### 通常営業期間
 

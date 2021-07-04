@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About_manbo"
 date: "2021-07-01"
 menu: "main"
 description: "A description of the page"

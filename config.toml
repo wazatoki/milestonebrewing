@@ -6,7 +6,7 @@ languagecode = "en"
 theme = "hugo-tanka"
 
 enableEmoji = true
-hasCJKLanguage = false
+hasCJKLanguage = true
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
