@@ -1,5 +1,5 @@
 ---
-title: "ABV_IBUs"
+title: "ABV IBUs"
 author: "wazatoki"
 date: 2019-01-01T00:00:00Z
 draft: false
