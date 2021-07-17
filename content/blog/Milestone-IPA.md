@@ -23,3 +23,5 @@ UK大麦麦芽と独産麦芽を使用し口に含むと麦の香りと甘みを
 
 review
 * [加古川のこと様のサイトへリンク](https://harimania.com/yamada-store/kitano-kakogawa-milestone-ipa/)
+
+{{ template "_internal/disqus.html" . }}

@@ -1,8 +1,9 @@
 baseurl = "https://milestonebrewing.netlify.app/"
 title = "Milestone Brewing"
-author = "Nan Xiao"
+author = "wazatoki"
 canonifyurls = true
-languagecode = "en"
+languagecode = "jp"
+disqusShortname = "milestonebrewing"
 theme = "hugo-tanka"
 
 enableEmoji = true
