@@ -28,7 +28,7 @@ Tap Room は2階、全席禁煙。JR東加古川駅前東にあるクラフト�
 
 瓶ビールオンラインストアは[こちら](http://milestonebrewing.stores.jp)からどうぞ。
 
-ヤマダストアさんのサイトは[こちら](https://yamada-store-online.com/products/list.php?transactionid=576ecc75488665db976c5da55e7e5bb6b881d46b&mode=search&name=MSB&search=)。
+ヤマダストアさんのサイトは[こちら](https://yamada-store-online.com/products/list.php?category_id=83)。
 
 <br/>
 
