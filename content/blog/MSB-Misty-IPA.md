@@ -16,4 +16,4 @@ meta_img: /images/msb_misty_ipa.jpg
 </div>
 
 [ABV](/blog/abv_ibus/) : 7.0%  
-[IBUs](/blog/abv_ibus/) : 
+[IBUs](/blog/abv_ibus/) : 55
