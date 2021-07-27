@@ -3,7 +3,6 @@ title = "Milestone Brewing"
 author = "wazatoki"
 canonifyurls = true
 languagecode = "jp"
-disqusShortname = "milestonebrewing"
 theme = "hugo-tanka"
 
 enableEmoji = true
