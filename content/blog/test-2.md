@@ -6,5 +6,5 @@ draft: false
 ---
 test contents 2
 
-add 
+add 日本語
 
